@@ -22,6 +22,6 @@ export default {
   position: relative;
   font-size: $baseFontSize;
   color: $titleColor;
-  font-family: $base-font-family;
+  font-family: $baseFontFamily;
 }
 </style>
